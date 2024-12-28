@@ -1,4 +1,4 @@
-# SQL-Projects
+# SQL-Projects ( 250 Questions)
 
 #1. Sales and Customer Transaction Analysis:
 This project focuses on analyzing sales data to uncover customer purchasing behavior, trends, and patterns. It involves querying transaction records to generate insights on sales performance, customer preferences, and product demand. Key metrics like total sales, customer frequency, and average transaction value are evaluated using SQL queries.
